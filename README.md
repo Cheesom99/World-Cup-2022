@@ -5,7 +5,7 @@ The projects are:
 - Identify (and visualise) which players frequently passed the ball into the opposition box (in-play only) during the 2018 World Cup
 
 
-Visit[My Medium](https://python-for-datascience.medium.com/players-that-passed-the-ball-into-the-box-often-3a4f6f695f96)
+Visit[My Medium](https://https://medium.com/@cheesomto)
 
 
 
